@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   My Personal Blog - Write about tech, and my stories.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "mahes.my.id"
+url: ""
 
 github:
   username: mahesndr # change to your github usernamew
