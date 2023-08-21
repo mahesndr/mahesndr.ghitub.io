@@ -6,9 +6,9 @@
 - type: twitter
   icon: "fab fa-twitter"
 
-- type: instagram
-  icon: "fab fa-instagram"
-  url:  ''
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
