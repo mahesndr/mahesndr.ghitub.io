@@ -8,6 +8,7 @@
 
 - type: instagram
   icon: "fab fa-instagram"
+  url:  ''
 
 - type: rss
   icon: "fas fa-rss"
