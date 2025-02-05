@@ -8,9 +8,9 @@ theme: jekyll-theme-chirpy
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-=======
+
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+
 timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
@@ -23,7 +23,6 @@ description: >- # used by seo meta and the atom feed
   My Personal Blog - Write about tech, and my stories.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://mahes.my.id"
 
 github:
   username: mahesndr # change to your github usernamew
@@ -36,7 +35,7 @@ instagram:
 =======
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://mahes.my.id"
 
 github:
   username: mahesndr # change to your GitHub username
@@ -51,14 +50,7 @@ social:
   name: mahesndr
   #email: mahessndra@gmail.com # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/mahesndr # change to your twitter homepage
-    - https://github.com/mahesndr # change to your twitter homepage
-    - https://instagram.com/mahesndr # change to your twitter homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
+ 
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
